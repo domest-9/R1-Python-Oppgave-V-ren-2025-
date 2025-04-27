@@ -1,0 +1,1 @@
+# R1-Python-Oppgave-V-ren-2025-
