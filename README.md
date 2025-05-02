@@ -2,5 +2,6 @@
 
 
 ```
-<pre> ```bash pip install requests beautifulsoup4 matplotlib numpy scipy pandas ``` </pre>
+pip install requests beautifulsoup4 matplotlib numpy scipy pandas
+
 ```
