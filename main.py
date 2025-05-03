@@ -11,8 +11,8 @@ def main():
 
         print("1. For å finne tidligere resultat til et valgfritt land i Eurovision ved hjelp av Wikipedia")
         print("2. For å lage grafer for gjennomsnittlig poengsum til Sverige og Norge i Eurovision")
-        print("3. For å finne ut om Sverige bedre enn Norge???")
-        print("4. For å finne gjennomsnittlig poengsum for et valgfritt land i Eurovision")
+        print("3. Norge og Sveriges plassering???")
+        print("4. For å finne gjennomsnittlig poengsum med avvik")
         print("x. Avslutt")
 
         print("\n")
